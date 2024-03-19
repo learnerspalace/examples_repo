@@ -1,0 +1,28 @@
+venv
+env
+node_modules
+
+# IDE
+.idea
+.vscode
+
+# Build
+build
+dist
+*.log
+
+# Misc
+*.class
+*.jar
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+
+# node
+npm-debug.log
+yarn-error.log
+node_modules
+
